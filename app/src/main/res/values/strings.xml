@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">EditTextWatcher Search App</string>
+
+    <string-array name="colors">
+
+        <item>White</item>
+        <item>Yellow</item>
+        <item>Blue</item>
+        <item>Red</item>
+        <item>Green</item>
+        <item>Black</item>
+        <item>Brown</item>
+        <item>Azure</item>
+        <item>Ivory</item>
+        <item>Teal</item>
+        <item>Silver</item>
+        <item>Purple</item>
+        <item>Navy blue</item>
+        <item>Pea green</item>
+        <item>Gray</item>
+        <item>Orange</item>
+        <item>Maroon</item>
+        <item>Charcoal</item>
+        <item>Aquamarine</item>
+        <item>Coral</item>
+        <item>Fuchsia</item>
+        <item>Wheat</item>
+        <item>Lime</item>
+        <item>Crimson</item>
+        <item>Khaki</item>
+        <item>Hot pink</item>
+        <item>Magenta</item>
+        <item>Olden</item>
+        <item>Plum</item>
+        <item>Olive</item>
+        <item>Cyan</item>
+
+    </string-array>
+
+</resources>
